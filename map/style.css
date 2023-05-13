@@ -1,8 +1,60 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
 
-#map { 
-    height: 100vh; 
+#map {
+    height: 100vh;
+}
+
+/* Position  */
+form {
+    min-width: 334px;
+    height: 750px;
+    padding: .825rem;
+    border-radius: .3125rem;
+    justify-content: space-between;
+
+    border: 0.5px solid rgb(182, 175, 175);
+
+    background-color: rgba(99, 96, 96, 0.362);
+
+
+
+}
+
+h4 {
+    font-weight: 800;
+    font-weight: bolder;
+    color: white;
+}
+
+
+.innerform {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formrow {
+    display: flex;
+    margin: .4875rem;
+
+}
+
+/* ****** */
+input {
+    min-width: 140px;
+    height: 1.75rem;
+    margin: .3125rem;
+    border-radius: .25rem;
+
+    background-color: white;
+}
+
+.formbutton {
+    min-width: 7rem;
+    min-height: 1.75rem;
+    color: white;
+    background-color: rgba(229, 58, 4, 1);
 }
