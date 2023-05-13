@@ -146,7 +146,7 @@ let customControl = L.Control.extend({
     button1.id = "btn1";
     button1.textContent = "Entrer les données";
     button1.addEventListener("click", function () {
-      // TODO mettre fonction affichage
+      window.location.href = "form.html";
     });
     let button2 = L.DomUtil.create("button", "", container);
     button2.id = "btn2";
