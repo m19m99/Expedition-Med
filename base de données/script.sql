@@ -22,12 +22,12 @@ CREATE TABLE `Sample_DATA` (
 
 CREATE TABLE `Gps` (
     `id` int AUTO_INCREMENT NOT NULL ,
-    `start_latitude` int  NOT NULL ,
-    `start_longitude` int  NOT NULL ,
-    `mid_latitude` int  NOT NULL ,
-    `mid_longitude` int  NOT NULL ,
-    `end_latitude` int  NOT NULL ,
-    `end_longitude` int  NOT NULL ,
+    `start_latitude` varchar(255)  NOT NULL ,
+    `start_longitude` varchar(255)  NOT NULL ,
+    `mid_latitude` varchar(255)  NOT NULL ,
+    `mid_longitude` varchar(255)  NOT NULL ,
+    `end_latitude` varchar(255)  NOT NULL ,
+    `end_longitude` varchar(255)  NOT NULL ,
     `Sample` varchar(255)  NOT NULL ,
     PRIMARY KEY (
         `id`

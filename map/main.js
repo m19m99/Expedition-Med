@@ -44,13 +44,13 @@ function convertCoords(latitude, longitude) {
 
 // Exemple d'utilisation :
 let coordinates = [
-  { latitude: "42°08.214 N", longitude: "11°36.646 E" },
-  { latitude: "45°25.784 N", longitude: "12°20.643 E" },
-  { latitude: "41°53.716 N", longitude: "12°28.692 E" },
-  { latitude: "38°57,602 N", longitude: "08°26,600 E" },
-  { latitude: "43°26,770 N", longitude: "07°40,909 E" },
-  { latitude: "40°31,947 N", longitude: "08°18,193 E" },
-  { latitude: "43°31,844 N", longitude: "07°005,456 E" },
+  // { latitude: "42°08.214 N", longitude: "11°36.646 E" },
+  // { latitude: "45°25.784 N", longitude: "12°20.643 E" },
+  // { latitude: "41°53.716 N", longitude: "12°28.692 E" },
+  // { latitude: "38°57,602 N", longitude: "08°26,600 E" },
+  // { latitude: "43°26,770 N", longitude: "07°40,909 E" },
+  // { latitude: "40°31,947 N", longitude: "08°18,193 E" },
+  // { latitude: "43°31,844 N", longitude: "07°005,456 E" },
   { latitude: "39°44,414 N", longitude: "08°21,954 E" },
 ];
 
