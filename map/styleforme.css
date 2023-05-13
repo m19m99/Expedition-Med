@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* début du code pour le formulaire  */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    height: 100vh;
+    background-image: url('./assets/images/pexels-thach-tran-756856.jpg');
+    object-fit: cover;
+}
+
+/* conteneur du formulaire  */
+form {
+    width: 334px;
+    height: 900px;
+    padding: .825rem;
+    border-radius: .3125rem;
+    justify-content: space-between;
+    border: 0.5px solid rgb(182, 175, 175);
+    background-color: #1B3C60;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+h4 {
+    font-weight: 800;
+    font-weight: bolder;
+    color: white;
+}
+
+
+.innerform {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formrow {
+    display: flex;
+    margin: 0.05rem .4500rem;
+}
+
+/* ****** */
+input {
+    min-width: 140px;
+    height: 1.75rem;
+    margin: .5125rem;
+    border-radius: .25rem;
+    background-color: white;
+}
+
+.formbutton {
+    min-width: 7rem;
+    min-height: 1.75rem;
+    color: white;
+    background-color: rgb(239, 16, 16);
+    border: none;
+    border-radius: 5px;
+    font-weight: 800;
+}
+
+.formbutton:hover{
+    cursor: pointer;
+    background-color: rgb(237, 100, 58);
+}
+
+input{
+    border: none;
+}
+
+footer{
+    height: 100px;
+}
