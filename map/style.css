@@ -1,12 +1,11 @@
-*{
-    margin: 0;
+body {
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    overflow-y: hidden;
 }
-
-#map { 
-    height: 100vh; 
-    position: fixed;
+html, body, #map {
+    height: 100%;
     width: 100vw;
 }
 
@@ -17,7 +16,75 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    
 }
+
+.nav-links{
+    font-weight: 800;
+    margin-right: 10%;
+}
+
+.logo{
+    margin-left: 5%;
+}
+
+.nav-link{
+    color: #1B3C60;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #2a5d93;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1B3C60;
+    font-weight: 800;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+li::marker {
+    color: red;
+}
+
+.logoMap {
+    width: 5%;
+    height: 5%;
+    margin: 5px;
+}
+
+.listes {
+    display: flex;
+}
+
+section div:first-of-type, section div:nth-of-type(2) {
+    display: flex;
+    justify-content: center;
+}
+
+#btn1, #btn2 {
+    all: unset;
+    background-color: rgb(239, 16, 16);
+    color:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px -1px #000000b0;
+    font-weight: 700;
+}
+
+#map { 
+    height: 80vh; 
+    position: fixed;
+    width: 100vw;
+}
+
 
 .nav-links{
     font-weight: 800;
@@ -50,3 +117,68 @@ nav{
 .hidden{
     display: none;
 }
+
+.custom-control{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 300%;
+    margin-top: -80px;
+    margin-right: -80px;
+}
+
+section{
+    margin-top: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(237, 240, 243, 0.652);
+}
+
+section div:nth-of-type(2) {
+    display: flex;
+    justify-content: center;
+} 
+
+.circle {
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    filter: blur(3px);
+}
+
+.first{
+    background-color: rgb(202, 136, 86);
+}
+.second{
+    background-color: rgb(251, 206, 7);
+}
+.third{
+    background-color: rgb(251, 117, 7);
+}
+.forth{
+    background-color: rgb(255, 47, 0);
+}
+.five{
+    background-color: rgb(0, 0, 0);
+}
+
+.legende {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+#btn1:hover,#btn2:hover{
+    cursor:pointer;
+    background-color: rgb(236, 76, 76);
+}
+
+@media screen and (min-width:750px) {
+    #btn1,#btn2{
+        margin-right: 70px;
+    }
+}
+
