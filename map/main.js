@@ -54,73 +54,80 @@ let coordinates = [
   { latitude: "39°44,414 N", longitude: "08°21,954 E" },
 ];
 
-coordinates.forEach(function (coord) {
-  let coords = convertCoords(coord.latitude, coord.longitude);
-
-  let circle = L.circle([coords.latitude, coords.longitude], {
-    color: "#1B3C60",
-    fillColor: "#1B3C60",
-    fillOpacity: 0.5,
-    radius: 30000,
-  }).addTo(map);
-
+fetch('get.php')
+.then(response => response.json())
+.then(coordonnees => {
   let dates = document.querySelector(".dates");
   let navBtn = document.querySelector(".nav-link");
 
-  let isDatesHidden = true; // La valeur par défaut est "caché"
+  coordonnees.forEach(function (coord) {
+    let coords = convertCoords(coord.mid_latitude, coord.mid_longitude);
+ 
+    let circle = L.circle([coords.latitude, coords.longitude], {
+      color: "#1B3C60",
+      fillColor: "#1B3C60",
+      fillOpacity: 0.5,
+      radius: 30000,
+    }).addTo(map);
 
-  navBtn.addEventListener("click", (event) => {
-    event.preventDefault();
+    
+    let isDatesHidden = true; // La valeur par défaut est "caché"
+    
+    navBtn.addEventListener("click", (event) => {
+      event.preventDefault();
+    
+      if (isDatesHidden) {
+        dates.classList.remove("hidden");
+        isDatesHidden = false;
+      } else {
+        dates.classList.add("hidden");
+        isDatesHidden = true;
+      }
+    });
+    
+    let popupContent = `
+    <section class="popup">
+    
+    <div>
+        <p>42°07.843 N - 11°37.247 E - 42°08.214 N - 11°36.646 E</p>
+    </div>
+    
+    <div>
+        <p>EM22-01</p>
+        <img class="logoMap" src="../pointer.jpg" alt="red logo pointer map">
+        <p>Tyrrhenian sea</p>
+    </div>
+    
+    <div class="listes">
+        <div>
+            <ul>
+                <li>Date : 11/07/2022</li>
+                <li>Start Time (UTC) : 17h22</li>
+                <li>Size (mm) : '2.5 - 5</li>
+                <li>Type : Line</li>
+                <li>Color : Blue</li>
+            </ul>
+        </div>
+        <div>
+            <ul>
+                <li>Number : 3</li>
+                <li>Start flowmeter : 53827</li>
+                <li>End flowmeter : 61885</li>
+                <li>Filtered volume (m3) : 61885</li>
+                <li>Filtered distance (m) : 2037</li>
+            </ul>
+        </div>
+    </div>
+    
+        <div></div>
+    
+    </section>
+    `;
+    
+    circle.bindPopup(popupContent);
+})
 
-    if (isDatesHidden) {
-      dates.classList.remove("hidden");
-      isDatesHidden = false;
-    } else {
-      dates.classList.add("hidden");
-      isDatesHidden = true;
-    }
-  });
 
-  let popupContent = `
-  <section class="popup">
-
-  <div>
-      <p>42°07.843 N - 11°37.247 E - 42°08.214 N - 11°36.646 E</p>
-  </div>
-
-  <div>
-      <p>EM22-01</p>
-      <img class="logoMap" src="../pointer.jpg" alt="red logo pointer map">
-      <p>Tyrrhenian sea</p>
-  </div>
-
-  <div class="listes">
-      <div>
-          <ul>
-              <li>Date : 11/07/2022</li>
-              <li>Start Time (UTC) : 17h22</li>
-              <li>Size (mm) : '2.5 - 5</li>
-              <li>Type : Line</li>
-              <li>Color : Blue</li>
-          </ul>
-      </div>
-      <div>
-          <ul>
-              <li>Number : 3</li>
-              <li>Start flowmeter : 53827</li>
-              <li>End flowmeter : 61885</li>
-              <li>Filtered volume (m3) : 61885</li>
-              <li>Filtered distance (m) : 2037</li>
-          </ul>
-      </div>
-  </div>
-
-      <div></div>
-
-</section>
-  `;
-
-  circle.bindPopup(popupContent);
 });
 
 /// Point de prélévement ///
