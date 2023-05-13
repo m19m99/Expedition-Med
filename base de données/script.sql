@@ -19,7 +19,7 @@ CREATE TABLE `Sample_DATA` (
 );
 
 CREATE TABLE `Gps` (
-    `id` int  NOT NULL ,
+    `id` int AUTO_INCREMENT NOT NULL ,
     `start_latitude` int  NOT NULL ,
     `start_longitude` int  NOT NULL ,
     `mid_latitude` int  NOT NULL ,
@@ -33,8 +33,9 @@ CREATE TABLE `Gps` (
 );
 
 CREATE TABLE `Navigation` (
-    `id` int  NOT NULL ,
+    `id` int AUTO_INCREMENT  NOT NULL ,
     `wind_force` int  NOT NULL ,
+    `wind_direction` int  NOT NULL ,
     `wind_speed` int  NOT NULL ,
     `sea_state` int  NOT NULL ,
     `water_temperature` int  NOT NULL ,
@@ -45,7 +46,7 @@ CREATE TABLE `Navigation` (
 );
 
 CREATE TABLE `Surface` (
-    `id` int  NOT NULL ,
+    `id` int  AUTO_INCREMENT NOT NULL ,
     `boat_speed` int  NOT NULL ,
     `start_flowmeter` int  NOT NULL ,
     `filtered_volume` int  NOT NULL ,
@@ -59,7 +60,7 @@ CREATE TABLE `Surface` (
 );
 
 CREATE TABLE `Tri` (
-    `id` int  NOT NULL ,
+    `id` int AUTO_INCREMENT NOT NULL ,
     `size` varchar(255)  NOT NULL ,
     `type` varchar(255)  NOT NULL ,
     `color` int  NOT NULL ,
