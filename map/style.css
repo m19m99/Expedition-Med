@@ -1,8 +1,36 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #map { 
     height: 100vh; 
+}
+
+nav{
+    width: 100%;
+    background-color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links{
+    font-weight: 800;
+    margin-right: 10%;
+}
+
+.logo{
+    margin-left: 5%;
+}
+
+.nav-link{
+    color: #1B3C60;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #2a5d93;
 }

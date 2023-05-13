@@ -5,17 +5,28 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <title>Expedition MED</title>
+  <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
+  <link rel="icon" href="./assets/images/EXPEDITIONMEDlogo.svg">
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
-    <link rel="stylesheet" href="style.css">
-    <script src="main.js" defer></script>
+  <script src="main.js" defer></script>
 </head>
 
 <body>
-  <div id="map"></div>
+  <header>
+    <nav>
+      <div class="logo">
+        <img width="150" src="./assets/images/EXPEDITIONMEDlogo.svg" alt="">
+      </div>
+      <div class="nav-links"><a class="nav-link" href="">Expéditions précédentes</a></div>
+    </nav>
+  </header>
+  
+  <div id="map">
+  </div>
 </body>
 
 </html>

@@ -9,6 +9,7 @@ let map = L.map("map").setView([LatLong.lat, LatLong.long], zoom);
 
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
+  minZoom: 3,
   attribution:
     '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
