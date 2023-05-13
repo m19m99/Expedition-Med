@@ -37,7 +37,12 @@ nav{
     color: #2a5d93;
 }
 
-section {
+
+li::marker {
+    color: red;
+}
+
+.popup{
     font-family: Arial, Helvetica, sans-serif;
     color: #1B3C60;
     font-weight: 800;
@@ -45,10 +50,6 @@ section {
     flex-direction: column;
     align-items: center;
     padding: 20px;
-}
-
-li::marker {
-    color: red;
 }
 
 .logoMap {
@@ -129,7 +130,9 @@ section div:first-of-type, section div:nth-of-type(2) {
 }
 
 section{
-    margin-top: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1B3C60;
+    font-weight: 800;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -169,7 +172,9 @@ section div:nth-of-type(2) {
     justify-content: center;
     align-items: center;
     padding: 5px;
+    margin-top: 600px;
 }
+
 
 #btn1:hover,#btn2:hover{
     cursor:pointer;
