@@ -145,7 +145,7 @@ let customControl = L.Control.extend({
     });
     let button2 = L.DomUtil.create("button", "", container);
     button2.id = "btn2";
-    button2.textContent = "Filtres";
+    // button2.textContent = "Filtres";
     button2.addEventListener("click", function () {
       // TODO mettre fonction affichage
     });
