@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS expeditionmed;
+CREATE DATABASE IF NOT EXISTS med;
 
 CREATE USER IF NOT EXISTS 'sea'@'localhost' IDENTIFIED BY 'azerty1234';
 
@@ -9,8 +9,8 @@ FLUSH PRIVILEGES;
 USE med; 
 
 CREATE TABLE `Sample_DATA` (
-    `Sample` string  NOT NULL ,
-    `Sea` string  NOT NULL ,
+    `Sample` varchar(255)  NOT NULL ,
+    `Sea` varchar(255)  NOT NULL ,
     `Start_date` date  NOT NULL ,
     `Start_time` date  NOT NULL ,
     PRIMARY KEY (
@@ -26,7 +26,7 @@ CREATE TABLE `Gps` (
     `mid_longitude` int  NOT NULL ,
     `end_latitude` int  NOT NULL ,
     `end_longitude` int  NOT NULL ,
-    `Sample` string  NOT NULL ,
+    `Sample` varchar(255)  NOT NULL ,
     PRIMARY KEY (
         `id`
     )
@@ -38,7 +38,7 @@ CREATE TABLE `Navigation` (
     `wind_speed` int  NOT NULL ,
     `sea_state` int  NOT NULL ,
     `water_temperature` int  NOT NULL ,
-    `Sample` string  NOT NULL ,
+    `Sample` varchar(255)  NOT NULL ,
     PRIMARY KEY (
         `id`
     )
@@ -51,8 +51,8 @@ CREATE TABLE `Surface` (
     `filtered_volume` int  NOT NULL ,
     `filtered_distance` int  NOT NULL ,
     `filtered_surface` int  NOT NULL ,
-    `comments` string  NOT NULL ,
-    `Sample` string  NOT NULL ,
+    `comments` varchar(255)  NOT NULL ,
+    `Sample` varchar(255)  NOT NULL ,
     PRIMARY KEY (
         `id`
     )
@@ -60,11 +60,11 @@ CREATE TABLE `Surface` (
 
 CREATE TABLE `Tri` (
     `id` int  NOT NULL ,
-    `size` string  NOT NULL ,
-    `type` string  NOT NULL ,
+    `size` varchar(255)  NOT NULL ,
+    `type` varchar(255)  NOT NULL ,
     `color` int  NOT NULL ,
     `number` int  NOT NULL ,
-    `Sample` string  NOT NULL ,
+    `Sample` varchar(255)  NOT NULL ,
     PRIMARY KEY (
         `id`
     )
