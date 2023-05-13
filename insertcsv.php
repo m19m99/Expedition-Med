@@ -63,4 +63,28 @@ function csv()
         $lineCount1++;
 
         if ($lineCount1 > 1) {
-            // Insérer les données de
+
+            $lineCount1 = 0;
+            $csvFileTri = fopen("tri.csv", "r");
+            while (($data1 = fgetcsv($csvFileTri, 10240, ",")) !== FALSE) {
+                $lineCount1++;
+        
+                if ($lineCount1 > 1) {
+        
+                    $envSur = $dbh->prepare("INSERT INTO Tri VALUES ( :size, :type, :color, :number, :Sample");
+                    $envSur->bindParam(":size", $data1[1]);
+                    $envSur->bindParam(":type", $data1[2]);
+                    $envSur->bindParam(":color", $data1[3]);
+                    $envSur->bindParam(":number", $data1[4]);
+                    $envSur->bindParam(":Sample", $data1[0]);
+                    $envSur->execute();
+                }
+            }
+        }
+
+    }
+
+    fclose($csvFileTri);
+
+
+}
