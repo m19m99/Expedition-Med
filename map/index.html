@@ -10,6 +10,7 @@
     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
+    <script src="https://unpkg.com/leaflet-pie@0.2.0/dist/leaflet-pie.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <script src="main.js" defer></script>
 </head>
@@ -24,7 +25,9 @@
     </nav>
   </header>
 
-  <div id="map"></div>
+  <div id="map">
+    <canvas id="myChart"></canvas>
+  </div>
 </body>
 
 </html>

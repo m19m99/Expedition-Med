@@ -10,12 +10,6 @@ const zoom = 3;
 
 let map = L.map("map").setView([LatLong.lat, LatLong.long], zoom);
 
-let mediterraneanBounds = L.latLngBounds(
-  L.latLng(30, -20), // coin sud-ouest de la Méditerranée
-  L.latLng(46, 36) // coin nord-est de la Méditerranée
-);
-
-map.setMaxBounds(mediterraneanBounds);
 
 map.setMinZoom(3); 
 
@@ -74,19 +68,48 @@ coordinates.forEach(function(coord) {
     radius: 30000,
   }).addTo(map);
 
-  circle.bindPopup("I am a circle.", {
-    className: "myPopup"
-  });
+  let popupContent = `
+  <section>
+
+  <div>
+      <p>42°07.843 N - 11°37.247 E - 42°08.214 N - 11°36.646 E</p>
+  </div>
+
+  <div>
+      <p>EM22-01</p>
+      <img class="logoMap" src="../pointer.jpg" alt="red logo pointer map">
+      <p>Tyrrhenian sea</p>
+  </div>
+
+  <div class="listes">
+      <div>
+          <ul>
+              <li>Date : 11/07/2022</li>
+              <li>Start Time (UTC) : 17h22</li>
+              <li>Size (mm) : '2.5 - 5</li>
+              <li>Type : Line</li>
+              <li>Color : Blue</li>
+          </ul>
+      </div>
+      <div>
+          <ul>
+              <li>Number : 3</li>
+              <li>Start flowmeter : 53827</li>
+              <li>End flowmeter : 61885</li>
+              <li>Filtered volume (m3) : 61885</li>
+              <li>Filtered distance (m) : 2037</li>
+          </ul>
+      </div>
+  </div>
+
+      <div></div>
+
+</section>
+  `;
+
+  circle.bindPopup(popupContent);
 });
 
-let popupContent = `
-  <div class="my-popup">
-    <h3>Mon titre de popup</h3>
-    <p>Je suis un contenu de popup personnalisé.</p>
-  </div>
-`;
-
-circle.bindPopup(popupContent);
 
 
 
@@ -101,3 +124,43 @@ let polylineCoords = [
 
 // Créer la polyligne
 let polyline = L.polyline(polylineCoords, {color: 'red'}).addTo(map);
+
+
+
+
+/// Button Filtre ///
+
+// Création d'un bouton personnalisé
+// Créer un contrôle personnalisé
+var customControl = L.Control.extend({
+  options: {
+  position: 'bottomright'
+  },
+  
+  onAdd: function (map) {
+  var container = L.DomUtil.create('div', 'custom-control');
+  var button1 = L.DomUtil.create('button', '', container);
+  button1.id = 'btn1';
+  button1.textContent = 'Bouton 1';
+  button1.addEventListener('click', function () {
+    // TODO mettre fonction affichage
+  });
+  var button2 = L.DomUtil.create('button', '', container);
+  button2.id = 'btn2';
+  button2.textContent = 'Bouton 2';
+  button2.addEventListener('click', function () {
+    // TODO mettre fonction affichage
+  });
+  L.DomEvent.disableClickPropagation(container);
+  return container;
+  }
+  });
+
+// Ajouter le contrôle à la carte
+map.addControl(new customControl());
+
+
+// Ajout du bouton personnalisé à la carte
+map.addControl(new customButton());
+
+
