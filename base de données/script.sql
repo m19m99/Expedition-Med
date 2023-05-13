@@ -2,11 +2,11 @@ CREATE DATABASE IF NOT EXISTS expeditionmed;
 
 CREATE USER IF NOT EXISTS 'sea'@'localhost' IDENTIFIED BY 'azerty1234';
 
-GRANT ALL PRIVILEGES ON expeditionmed.* TO 'sea'@'localhost';
+GRANT ALL PRIVILEGES ON med.* TO 'sea'@'localhost';
 
 FLUSH PRIVILEGES;
 
-USE expeditionmed; 
+USE med; 
 
 CREATE TABLE `Sample_DATA` (
     `Sample` string  NOT NULL ,
