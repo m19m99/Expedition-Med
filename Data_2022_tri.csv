@@ -1,0 +1,1244 @@
+Sample,Size (mm),Type,Color,Number
+EM22-01,2.5 - 5,Line,Blue,1
+EM22-01,1 - 2.5,Fragment,White,4
+EM22-02,>5,Fragment,Grey,4
+EM22-02,>5,Fragment,Blue,1
+EM22-02,>5,Fragment,Green,1
+EM22-02,>5,Fragment,White,6
+EM22-02,>5,Fragment,Red,1
+EM22-02,>5,Fragment,Transparent,3
+EM22-02,>5,Film,White,1
+EM22-02,>5,Film,Transparent,7
+EM22-02,>5,Line,Green,3
+EM22-02,>5,Line,White,1
+EM22-02,>5,Line,Red,1
+EM22-02,>5,Line,Transparent,1
+EM22-02,>5,Foam,White,2
+EM22-02,2.5 - 5,Fragment,Black,2
+EM22-02,2.5 - 5,Fragment,green,1
+EM22-02,2.5 - 5,Fragment,White,3
+EM22-02,2.5 - 5,Fragment,Yellow,1
+EM22-02,2.5 - 5,Fragment,Transparent,2
+EM22-02,2.5 - 5,Film,Blue,1
+EM22-02,2.5 - 5,Film,White,1
+EM22-02,2.5 - 5,Film,Transparent,4
+EM22-02,2.5 - 5,Line,Green,1
+EM22-02,1 - 2.5,Fragment,Grey,5
+EM22-02,1 - 2.5,Fragment,Blue,6
+EM22-02,1 - 2.5,Fragment,green,2
+EM22-02,1 - 2.5,Fragment,White,30
+EM22-02,1 - 2.5,Fragment,Yellow,2
+EM22-02,1 - 2.5,Fragment,Orange,2
+EM22-02,1 - 2.5,Fragment,Transparent,36
+EM22-02,1 - 2.5,Film,Grey,9
+EM22-02,1 - 2.5,Film,Blue,1
+EM22-02,1 - 2.5,Film,White,3
+EM22-02,1 - 2.5,Film,Orange,1
+EM22-02,1 - 2.5,Film,Transparent,22
+EM22-02,1 - 2.5,Line,Orange,1
+EM22-03,>5,Fragment,Green,1
+EM22-03,>5,Fragment,Transparent,1
+EM22-03,>5,Film,Transparent,2
+EM22-03,>5,Line,White,2
+EM22-03,2.5 - 5,Fragment,Green,1
+EM22-03,2.5 - 5,Fragment,White,4
+EM22-03,2.5 - 5,Fragment,Transparent,1
+EM22-03,2.5 - 5,Film,Transparent,3
+EM22-03,1 - 2.5,Fragment,Black,1
+EM22-03,1 - 2.5,Fragment,Blue,2
+EM22-03,1 - 2.5,Fragment,White,9
+EM22-03,1 - 2.5,Fragment,Transparent,4
+EM22-04,>5,Fragment,Green,1
+EM22-04,>5,Fragment,White,2
+EM22-04,>5,Fragment,Transparent,2
+EM22-04,>5,Film,Transparent,2
+EM22-04,>5,Line,White,3
+EM22-04,>5,Line,Yellow,1
+EM22-04,2.5 - 5,Fragment,Transparent,3
+EM22-04,2.5 - 5,Film,Transparent,4
+EM22-04,2.5 - 5,Line,White,1
+EM22-04,1 - 2.5,Fragment,Black,3
+EM22-04,1 - 2.5,Fragment,Blue,2
+EM22-04,1 - 2.5,Fragment,Green,1
+EM22-04,1 - 2.5,Fragment,White,8
+EM22-04,1 - 2.5,Fragment,Yellow,3
+EM22-04,1 - 2.5,Fragment,Transparent,12
+EM22-04,1 - 2.5,Film,Transparent,1
+EM22-04,1 - 2.5,Line,White,1
+EM22-05,>5,Fragment,Black,3
+EM22-05,>5,Fragment,White,10
+EM22-05,>5,Fragment,Orange,1
+EM22-05,>5,Fragment,Transparent,2
+EM22-05,>5,Film,Black,1
+EM22-05,>5,Film,Blue,1
+EM22-05,>5,Film,Green,1
+EM22-05,>5,Film,White,12
+EM22-05,>5,Film,Transparent,38
+EM22-05,>5,Line,Black,3
+EM22-05,>5,Line,Blue,2
+EM22-05,>5,Line,green,4
+EM22-05,>5,Line,White,3
+EM22-05,>5,Line,Orange,1
+EM22-05,>5,Line,Transparent,3
+EM22-05,>5,Line,Multicolor,1
+EM22-05,2.5 - 5,Fragment,Black,6
+EM22-05,2.5 - 5,Fragment,Blue,4
+EM22-05,2.5 - 5,Fragment,White,7
+EM22-05,2.5 - 5,Fragment,Yellow,1
+EM22-05,2.5 - 5,Fragment,Transparent,12
+EM22-05,2.5 - 5,Film,Blue,1
+EM22-05,2.5 - 5,Film,White,8
+EM22-05,2.5 - 5,Film,Transparent,47
+EM22-05,2.5 - 5,Line,Blue,1
+EM22-05,2.5 - 5,Line,Green,2
+EM22-05,2.5 - 5,Line,White,3
+EM22-05,2.5 - 5,Line,Orange,1
+EM22-05,2.5 - 5,Line,Transparent,3
+EM22-05,2.5 - 5,ESP,White,1
+EM22-05,1 - 2.5,Fragment,Black,14
+EM22-05,1 - 2.5,Fragment,Blue,5
+EM22-05,1 - 2.5,Fragment,Green,2
+EM22-05,1 - 2.5,Fragment,White,53
+EM22-05,1 - 2.5,Fragment,Yellow,2
+EM22-05,1 - 2.5,Fragment,Orange,1
+EM22-05,1 - 2.5,Fragment,Transparent,33
+EM22-05,1 - 2.5,Film,Blue,1
+EM22-05,1 - 2.5,Film,White,13
+EM22-05,1 - 2.5,Film,Transparent,40
+EM22-05,1 - 2.5,Film,Multicolor,1
+EM22-05,1 - 2.5,Line,Black,1
+EM22-05,1 - 2.5,Line,Blue,1
+EM22-05,1 - 2.5,Line,Green,1
+EM22-05,1 - 2.5,Line,White,1
+EM22-05,1 - 2.5,Line,Transparent,1
+EM22-06,>5,Fragment,White,3
+EM22-06,>5,Fragment,Orange,1
+EM22-06,>5,Film,Transparent,5
+EM22-06,>5,Line,Blue,1
+EM22-06,>5,Line,Transparent,5
+EM22-06,2.5 - 5,Fragment,Black,3
+EM22-06,2.5 - 5,Fragment,Green,1
+EM22-06,2.5 - 5,Fragment,White,6
+EM22-06,2.5 - 5,Fragment,Yellow,2
+EM22-06,2.5 - 5,Fragment,Transparent,11
+EM22-06,2.5 - 5,Film,Black,2
+EM22-06,2.5 - 5,Film,White,1
+EM22-06,2.5 - 5,Film,Yellow,1
+EM22-06,2.5 - 5,Film,Transparent,6
+EM22-06,2.5 - 5,Line,Black,2
+EM22-06,2.5 - 5,Line,Blue,1
+EM22-06,2.5 - 5,Line,Green,3
+EM22-06,2.5 - 5,Line,White,1
+EM22-06,2.5 - 5,Line,Transparent,5
+EM22-06,1 - 2.5,Fragment,Black,29
+EM22-06,1 - 2.5,Fragment,Blue,16
+EM22-06,1 - 2.5,Fragment,green,1
+EM22-06,1 - 2.5,Fragment,Brown,5
+EM22-06,1 - 2.5,Fragment,White,53
+EM22-06,1 - 2.5,Fragment,Yellow,3
+EM22-06,1 - 2.5,Fragment,Transparent,126
+EM22-06,1 - 2.5,Film,Black,1
+EM22-06,1 - 2.5,Film,White,1
+EM22-06,1 - 2.5,Film,Transparent,8
+EM22-06,1 - 2.5,Line,Blue,2
+EM22-06,1 - 2.5,Line,White,3
+EM22-06,1 - 2.5,Line,Transparent,3
+EM22-06,1 - 2.5,ESP,Black,1
+EM22-06,1 - 2.5,ESP,White,2
+EM22-06,1 - 2.5,Pellet,White,1
+EM22-07,>5,Fragment,Black,3
+EM22-07,>5,Fragment,White,5
+EM22-07,>5,Fragment,Transparent,1
+EM22-07,>5,Film,Black,1
+EM22-07,>5,Film,White,1
+EM22-07,>5,Film,Orange,1
+EM22-07,"2,5 - 5",Fragment,Black,3
+EM22-07,"2,5 - 5",Fragment,Green,1
+EM22-07,"2,5 - 5",Fragment,Transparent,7
+EM22-07,"2,5 - 5",Film,White,1
+EM22-07,"2,5 - 5",Film,Transparent,9
+EM22-07,"2,5 - 5",Line,Green,2
+EM22-07,"1 - 2,5",Fragment,Black,6
+EM22-07,"1 - 2,5",Fragment,Blue,5
+EM22-07,"1 - 2,5",Fragment,Green,1
+EM22-07,"1 - 2,5",Fragment,White,27
+EM22-07,"1 - 2,5",Fragment,Orange,1
+EM22-07,"1 - 2,5",Fragment,Transparent,24
+EM22-07,"1 - 2,5",Film,Transparent,3
+EM22-07,"1 - 2,5",Line,Transparent,1
+EM22-08,>5,Fragment,Black,1
+EM22-08,>5,Fragment,Blue,1
+EM22-08,>5,Fragment,White,5
+EM22-08,>5,Fragment,Transparent,1
+EM22-08,>5,Film,White,1
+EM22-08,>5,Film,Transparent,3
+EM22-08,>5,Line,Black,1
+EM22-08,>5,Line,Blue,3
+EM22-08,>5,Line,Green,4
+EM22-08,>5,Line,White,5
+EM22-08,>5,Line,Transparent,1
+EM22-08,"2,5 - 5",Fragment,Black,1
+EM22-08,"2,5 - 5",Fragment,green,2
+EM22-08,"2,5 - 5",Fragment,Brown,2
+EM22-08,"2,5 - 5",Fragment,White,7
+EM22-08,"2,5 - 5",Fragment,Transparent,5
+EM22-08,"2,5 - 5",Film,White,2
+EM22-08,"2,5 - 5",Film,Transparent,4
+EM22-08,"2,5 - 5",Line,Black,1
+EM22-08,"2,5 - 5",Line,Green,1
+EM22-08,"2,5 - 5",Line,Transparent,2
+EM22-08,"2,5 - 5",Pellet,Yellow,1
+EM22-08,"2,5 - 5",Pellet,Transparent,1
+EM22-08,"1 - 2,5",Fragment,Black,9
+EM22-08,"1 - 2,5",Fragment,Blue,12
+EM22-08,"1 - 2,5",Fragment,Green,7
+EM22-08,"1 - 2,5",Fragment,Brown,1
+EM22-08,"1 - 2,5",Fragment,White,30
+EM22-08,"1 - 2,5",Fragment,Orange,1
+EM22-08,"1 - 2,5",Fragment,Transparent,30
+EM22-08,"1 - 2,5",Film,Blue,2
+EM22-08,"1 - 2,5",Film,White,1
+EM22-08,"1 - 2,5",Film,Transparent,6
+EM22-08,"1 - 2,5",Line,Black,1
+EM22-08,"1 - 2,5",Line,Blue,2
+EM22-08,"1 - 2,5",Line,White,4
+EM22-08,"1 - 2,5",Line,Transparent,1
+EM22-08,"1 - 2,5",ESP,White,1
+EM22-09,>5,Fragment,Orange,1
+EM22-09,>5,Fragment,Transparent,1
+EM22-09,>5,Film,White,1
+EM22-09,>5,Film,Transparent,3
+EM22-09,>5,Line,Blue,1
+EM22-09,>5,Line,Green,1
+EM22-09,>5,Line,White,1
+EM22-09,>5,Line,Transparent,1
+EM22-09,"2,5 - 5",Fragment,Black,3
+EM22-09,"2,5 - 5",Fragment,Brown,1
+EM22-09,"2,5 - 5",Fragment,White,1
+EM22-09,"2,5 - 5",Fragment,Transparent,2
+EM22-09,"2,5 - 5",Film,Transparent,5
+EM22-09,"2,5 - 5",Line,Black,1
+EM22-09,"2,5 - 5",Line,green,1
+EM22-09,"2,5 - 5",Line,White,1
+EM22-09,"1 - 2,5",Fragment,Black,4
+EM22-09,"1 - 2,5",Fragment,Blue,6
+EM22-09,"1 - 2,5",Fragment,Green,1
+EM22-09,"1 - 2,5",Fragment,White,8
+EM22-09,"1 - 2,5",Fragment,Yellow,1
+EM22-09,"1 - 2,5",Fragment,Orange,1
+EM22-09,"1 - 2,5",Fragment,Transparent,17
+EM22-09,"1 - 2,5",Film,Transparent,4
+EM22-09,"1 - 2,5",Line,Blue,1
+EM22-09,"1 - 2,5",Line,Transparent,1
+EM22-10,> 5,Film,Transparent,5
+EM22-10,2.5 - 5,Fragment,Black,1
+EM22-10,2.5 - 5,Fragment,White,1
+EM22-10,2.5 - 5,Fragment,Yellow,1
+EM22-10,2.5 - 5,Film,Transparent,6
+EM22-10,2.5 - 5,Line,Transparent,1
+EM22-10,1 - 2.5,Fragment,Black,1
+EM22-10,1 - 2.5,Fragment,Blue,1
+EM22-10,1 - 2.5,Fragment,White,3
+EM22-10,1 - 2.5,Fragment,Transparent,2
+EM22-10,1 - 2.5,Fragment,Pink,1
+EM22-10,1 - 2.5,Film,Transparent,3
+EM22-10,1 - 2.5,Line,Black,1
+EM22-10,1 - 2.5,Line,Transparent,3
+EM22-11,> 5,Fragment,Transparent,2
+EM22-11,> 5,Film,White,1
+EM22-11,> 5,Line,Black,2
+EM22-11,> 5,Line,Blue,1
+EM22-11,> 5,Line,Transparent,1
+EM22-11,2.5 - 5,Fragment,Transparent,1
+EM22-11,2.5 - 5,Film,White,1
+EM22-11,1 - 2.5,Fragment,Black,2
+EM22-11,1 - 2.5,Fragment,Green,1
+EM22-11,1 - 2.5,Fragment,White,5
+EM22-11,1 - 2.5,Fragment,Yellow,1
+EM22-11,1 - 2.5,Fragment,Transparent,3
+EM22-11,1 - 2.5,Film,White,1
+EM22-11,1 - 2.5,Film,Transparent,2
+EM22-11,1 - 2.5,Line,Blue,3
+EM22-11,1 - 2.5,Line,White,1
+EM22-11,1 - 2.5,Line,Transparent,4
+EM22-12,>5,Line,Black,1
+EM22-12,>5,Line,Blue,2
+EM22-12,>5,Line,Green,1
+EM22-12,>5,Line,White,1
+EM22-12,>5,Line,Transparent,7
+EM22-12,>5,Fragment,Transparent,17
+EM22-12,>5,Fragment,White,3
+EM22-12,>5,Film,Transparent,12
+EM22-12,>5,Pellet,White,1
+EM22-12,2.5 - 5,Fragment,Black,4
+EM22-12,2.5 - 5,Fragment,Blue,3
+EM22-12,2.5 - 5,Fragment,Green,3
+EM22-12,2.5 - 5,Fragment,White,9
+EM22-12,2.5 - 5,Fragment,Orange,1
+EM22-12,2.5 - 5,Fragment,Transparent,28
+EM22-12,2.5 - 5,Film,White,2
+EM22-12,2.5 - 5,Film,Orange,1
+EM22-12,2.5 - 5,Film,Transparent,36
+EM22-12,2.5 - 5,Line,Green,2
+EM22-12,2.5 - 5,Line,White,5
+EM22-12,2.5 - 5,Line,Transparent,3
+EM22-12,2.5 - 5,Pellet,White,1
+EM22-12,1 - 2.5,Fragment,Black,24
+EM22-12,1 - 2.5,Fragment,Blue,17
+EM22-12,1 - 2.5,Fragment,Green,9
+EM22-12,1 - 2.5,Fragment,White,58
+EM22-12,1 - 2.5,Fragment,Yellow,7
+EM22-12,1 - 2.5,Fragment,Orange,7
+EM22-12,1 - 2.5,Fragment,Transparent,115
+EM22-12,1 - 2.5,Film,Blue,1
+EM22-12,1 - 2.5,Film,White,1
+EM22-12,1 - 2.5,Film,Transparent,28
+EM22-12,1 - 2.5,Line,Blue,1
+EM22-12,1 - 2.5,Line,Green,2
+EM22-12,1 - 2.5,Line,White,4
+EM22-12,1 - 2.5,Line,Yellow,2
+EM22-12,1 - 2.5,Line,Transparent,8
+EM22-13,> 5,Fragment,Black,1
+EM22-13,> 5,Fragment,Blue,2
+EM22-13,> 5,Fragment,Green,1
+EM22-13,> 5,Fragment,White,4
+EM22-13,> 5,Fragment,Transparent,5
+EM22-13,> 5,Film,Blue,1
+EM22-13,> 5,Film,White,1
+EM22-13,> 5,Film,Transparent,19
+EM22-13,> 5,Line,Black,2
+EM22-13,> 5,Line,Blue,1
+EM22-13,> 5,Line,Green,7
+EM22-13,> 5,Line,Orange,2
+EM22-13,> 5,Line,Transparent,8
+EM22-13,2.5 - 5,Fragment,Black,8
+EM22-13,2.5 - 5,Fragment,Blue,2
+EM22-13,2.5 - 5,Fragment,green,3
+EM22-13,2.5 - 5,Fragment,White,17
+EM22-13,2.5 - 5,Fragment,Transparent,31
+EM22-13,2.5 - 5,Film,Black,2
+EM22-13,2.5 - 5,Film,Transparent,34
+EM22-13,2.5 - 5,Line,Black,3
+EM22-13,2.5 - 5,Line,green,18
+EM22-13,2.5 - 5,Line,White,1
+EM22-13,2.5 - 5,Line,Transparent,3
+EM22-13,1 - 2.5,Fragment,Black,35
+EM22-13,1 - 2.5,Fragment,Blue,16
+EM22-13,1 - 2.5,Fragment,Green,6
+EM22-13,1 - 2.5,Fragment,White,92
+EM22-13,1 - 2.5,Fragment,Yellow,5
+EM22-13,1 - 2.5,Fragment,Orange,5
+EM22-13,1 - 2.5,Fragment,Transparent,123
+EM22-13,1 - 2.5,Film,Black,6
+EM22-13,1 - 2.5,Film,Blue,1
+EM22-13,1 - 2.5,Film,Green,1
+EM22-13,1 - 2.5,Film,White,5
+EM22-13,1 - 2.5,Film,Yellow,1
+EM22-13,1 - 2.5,Film,Transparent,57
+EM22-13,1 - 2.5,Line,Black,2
+EM22-13,1 - 2.5,Line,Blue,5
+EM22-13,1 - 2.5,Line,green,1
+EM22-13,1 - 2.5,Line,White,1
+EM22-13,1 - 2.5,Line,Orange,1
+EM22-13,1 - 2.5,Line,Transparent,5
+EM22-13,1 - 2.5,Pellet,Transparent,1
+EM22-15,> 5,Fragment,White,1
+EM22-15,> 5,Film,Transparent,3
+EM22-15,2.5 - 5 ,Fragment,Orange,1
+EM22-15,2.5 - 5 ,Film,Transparent,3
+EM22-15,2.5 - 5 ,Line,Green,1
+EM22-15,2.5 - 5 ,Line,Transparent,1
+EM22-15,1 - 2.5,Fragment,Black,4
+EM22-15,1 - 2.5,Fragment,Blue,1
+EM22-15,1 - 2.5,Fragment,White,3
+EM22-15,1 - 2.5,Fragment,Transparent,3
+EM22-15,1 - 2.5,Film,Transparent,2
+EM22-15,1 - 2.5,Line,Blue,1
+EM22-16,> 5,Fragment,White,1
+EM22-16,> 5,Film,Transparent,3
+EM22-16,2.5 - 5,Fragment,Green,2
+EM22-16,2.5 - 5,Fragment,White,2
+EM22-16,2.5 - 5,Fragment,Transparent,1
+EM22-16,2.5 - 5,Film,Transparent,1
+EM22-16,1 - 2.5,Fragment,Black,5
+EM22-16,1 - 2.5,Fragment,Blue,1
+EM22-16,1 - 2.5,Fragment,White,6
+EM22-16,1 - 2.5,Fragment,Orange,2
+EM22-16,1 - 2.5,Fragment,Transparent,12
+EM22-16,1 - 2.5,Film,White,1
+EM22-16,1 - 2.5,Film,Line,1
+EM22-16,1 - 2.5,Film,Transparent,1
+EM22-16,1 - 2.5,ESP,White,2
+EM22-17,> 5,Fragment,Black,1
+EM22-17,> 5,Fragment,Blue,1
+EM22-17,> 5,Fragment,White,3
+EM22-17,> 5,Film,Black,2
+EM22-17,> 5,Film,Green,2
+EM22-17,> 5,Film,White,4
+EM22-17,> 5,Film,Transparent,10
+EM22-17,> 5,Line,Black,2
+EM22-17,> 5,Line,Green,2
+EM22-17,> 5,Line,White,4
+EM22-17,> 5,Line,Orange,1
+EM22-17,> 5,Line,Transparent,3
+EM22-17,2.5 - 5,Fragment,Blue,2
+EM22-17,2.5 - 5,Fragment,Green,1
+EM22-17,2.5 - 5,Fragment,White,6
+EM22-17,2.5 - 5,Fragment,Transparent,4
+EM22-17,2.5 - 5,Film,White,2
+EM22-17,2.5 - 5,Film,Orange,1
+EM22-17,2.5 - 5,Film,Transparent,10
+EM22-17,2.5 - 5,ESP,White,1
+EM22-17,1 - 2.5,Fragment,Black,6
+EM22-17,1 - 2.5,Fragment,Blue,9
+EM22-17,1 - 2.5,Fragment,Green,9
+EM22-17,1 - 2.5,Fragment,White,32
+EM22-17,1 - 2.5,Fragment,Yellow,2
+EM22-17,1 - 2.5,Fragment,Orange,5
+EM22-17,1 - 2.5,Fragment,Transparent,38
+EM22-17,1 - 2.5,Film,Green,1
+EM22-17,1 - 2.5,Film,White,2
+EM22-17,1 - 2.5,Film,Transparent,12
+EM22-17,1 - 2.5,Line,Blue,1
+EM22-17,1 - 2.5,Line,White,1
+EM22-17,1 - 2.5,ESP,White,1
+EM22-18,> 5,Film,White,1
+EM22-18,> 5,Film,Transparent,1
+EM22-18,2.5 - 5,Fragment,Black,1
+EM22-18,2.5 - 5,Fragment,White,1
+EM22-18,2.5 - 5,Fragment,Transparent,2
+EM22-18,2.5 - 5,Film,White,1
+EM22-18,2.5 - 5,Film,Orange,1
+EM22-18,2.5 - 5,Line,White,1
+EM22-18,2.5 - 5,ESP,White,1
+EM22-18,1 - 2.5,Fragment,Black,7
+EM22-18,1 - 2.5,Fragment,White,12
+EM22-18,1 - 2.5,Fragment,Transparent,5
+EM22-18,1 - 2.5,Fragment,Multicolor,1
+EM22-18,1 - 2.5,Film,White,1
+EM22-18,1 - 2.5,Film,Transparent,3
+EM22-18,1 - 2.5,Line,White,1
+EM22-18,1 - 2.5,ESP,White,10
+EM22-19,> 5,Fragment,Bleu,1
+EM22-19,> 5,Fragment,White,1
+EM22-19,> 5,Film,Transparent,1
+EM22-19,> 5,Line,Green,1
+EM22-19,> 5,Line,Transparent,1
+EM22-19,2.5 - 5,Fragment,Black,1
+EM22-19,2.5 - 5,Fragment,Blue,1
+EM22-19,2.5 - 5,Fragment,White,5
+EM22-19,2.5 - 5,Fragment,Transparent,9
+EM22-19,2.5 - 5,Film,White,1
+EM22-19,2.5 - 5,Film,Transparent,5
+EM22-19,2.5 - 5,Line,Blue,1
+EM22-19,2.5 - 5,Line,White,2
+EM22-19,2.5 - 5,Line,Orange,1
+EM22-19,2.5 - 5,ESP,Black,1
+EM22-19,1 - 2.5,Fragment,Black,27
+EM22-19,1 - 2.5,Fragment,Blue,3
+EM22-19,1 - 2.5,Fragment,Green,1
+EM22-19,1 - 2.5,Fragment,Brown,2
+EM22-19,1 - 2.5,Fragment,White,38
+EM22-19,1 - 2.5,Fragment,Yellow,3
+EM22-19,1 - 2.5,Fragment,Orange,3
+EM22-19,1 - 2.5,Fragment,Transparent,56
+EM22-19,1 - 2.5,Fragment,Multicolor,2
+EM22-19,1 - 2.5,Film,White,1
+EM22-19,1 - 2.5,Film,Transparent,4
+EM22-19,1 - 2.5,Line,Green,3
+EM22-19,1 - 2.5,Line,Transparent,4
+EM22-20,> 5,Line,Black,1
+EM22-20,> 5,Line,Blue,1
+EM22-20,2.5 - 5,Fragment,Black,1
+EM22-20,2.5 - 5,Fragment,Green,1
+EM22-20,2.5 - 5,Line,Transparent,1
+EM22-20,1 - 2.5,Fragment,Black,2
+EM22-20,1 - 2.5,Fragment,White,5
+EM22-20,1 - 2.5,Line,Blue,1
+EM22-20,1 - 2.5,Line,Transparent,1
+EM22-21,> 5,Film,yellow,1
+EM22-21,> 5,Film,Transparent,1
+EM22-21,> 5,Line,Blue,1
+EM22-21,2.5 - 5,Fragment,Blue,2
+EM22-21,2.5 - 5,Fragment,White,2
+EM22-21,2.5 - 5,Film,Orange,1
+EM22-21,1 - 2.5,Fragment,Black,1
+EM22-21,1 - 2.5,Fragment,Brown,2
+EM22-21,1 - 2.5,Fragment,WHite,7
+EM22-21,1 - 2.5,Film,Transparent,1
+EM22-22,> 5,Fragment,Blue,1
+EM22-22,> 5,Fragment,White,1
+EM22-22,> 5,Fragment,Transparent,1
+EM22-22,> 5,Film,Transparent,2
+EM22-22,> 5,Line,Green,1
+EM22-22,> 5,Line,White,1
+EM22-22,> 5,Line,Transparent,1
+EM22-22,2.5 - 5,Fragment,Black,8
+EM22-22,2.5 - 5,Fragment,Green,1
+EM22-22,2.5 - 5,Fragment,White,6
+EM22-22,2.5 - 5,Fragment,Transparent,1
+EM22-22,2.5 - 5,Fragment,Multicolor,1
+EM22-22,2.5 - 5,Film,Transparent,7
+EM22-22,2.5 - 5,Pellet,Transparent,1
+EM22-22,1 - 2.5,Fragment,Black,11
+EM22-22,1 - 2.5,Fragment,Blue,8
+EM22-22,1 - 2.5,Fragment,Green,3
+EM22-22,1 - 2.5,Fragment,White,35
+EM22-22,1 - 2.5,Fragment,Transparent,36
+EM22-22,1 - 2.5,Fragment,Multicolor,1
+EM22-22,1 - 2.5,Film,Transparent,2
+EM22-22,1 - 2.5,Line,Transparent,1
+EM22-23,> 5,Fragment,Black,1
+EM22-23,> 5,Fragment,Blue,1
+EM22-23,> 5,Fragment,Green,1
+EM22-23,> 5,Fragment,White,10
+EM22-23,> 5,Fragment,Transparent,2
+EM22-23,> 5,Film,Black,1
+EM22-23,> 5,Film,Blue,2
+EM22-23,> 5,Film,White,4
+EM22-23,> 5,Film,Yellow,1
+EM22-23,> 5,Film,Transparent,10
+EM22-23,> 5,Line,Blue,1
+EM22-23,> 5,Line,White,3
+EM22-23,> 5,Line,Yellow,1
+EM22-23,> 5,Line,Transparent,3
+EM22-23,2.5 - 5,Fragment,Black,2
+EM22-23,2.5 - 5,Fragment,Blue,3
+EM22-23,2.5 - 5,Fragment,Green,1
+EM22-23,2.5 - 5,Fragment,White,6
+EM22-23,2.5 - 5,Fragment,Transparent,25
+EM22-23,2.5 - 5,Film,Transparent,4
+EM22-23,2.5 - 5,Film,Multicolor,1
+EM22-23,2.5 - 5,Line,White,1
+EM22-23,2.5 - 5,ESP,White,2
+EM22-23,2.5 - 5,Pellet,White,2
+EM22-23,1 - 2.5,Fragment,Black,8
+EM22-23,1 - 2.5,Fragment,Blue,1
+EM22-23,1 - 2.5,Fragment,Green,2
+EM22-23,1 - 2.5,Fragment,White,25
+EM22-23,1 - 2.5,Fragment,Yellow,1
+EM22-23,1 - 2.5,Fragment,Transparent,69
+EM22-23,1 - 2.5,Fragment,Multicolor,4
+EM22-23,1 - 2.5,Film,Black,1
+EM22-23,1 - 2.5,Film,Transparent,3
+EM22-23,1 - 2.5,Line,Transparent,1
+EM22-23,1 - 2.5,ESP,White,1
+EM22-24,> 5,Fragment,White,1
+EM22-24,> 5,Fragment,Transparent,1
+EM22-24,> 5,Line,Orange,1
+EM22-24,> 5,Line,Transparent,2
+EM22-24,2.5 - 5,Fragment,Green,1
+EM22-24,2.5 - 5,Fragment,White,2
+EM22-24,2.5 - 5,Fragment,Transparent,2
+EM22-24,2.5 - 5,Line,Grey,1
+EM22-24,1 - 2.5,Fragment,Blue,1
+EM22-24,1 - 2.5,Fragment,Green,1
+EM22-24,1 - 2.5,Fragment,Brown,1
+EM22-24,1 - 2.5,Fragment,White,1
+EM22-24,1 - 2.5,Fragment,Yellow,1
+EM22-24,1 - 2.5,Fragment,Transparent,14
+EM22-24,1 - 2.5,Fragment,Multicolore,2
+EM22-24,1 - 2.5,Film,Transparent,1
+EM22-24,1 - 2.5,Line,White,1
+EM22-24,1 - 2.5,ESP,White,1
+EM22-25,> 5,Fragment,Black/grey,2
+EM22-25,> 5,Fragment,White,1
+EM22-25,> 5,Fragment,Transparent,1
+EM22-25,> 5,Film,Transparent,16
+EM22-25,> 5,Line,Blue,1
+EM22-25,> 5,Line,White,1
+EM22-25,2.5 - 5,Fragment,Black/grey,9
+EM22-25,2.5 - 5,Fragment,Green,1
+EM22-25,2.5 - 5,Fragment,White,4
+EM22-25,2.5 - 5,Fragment,Transparent,8
+EM22-25,2.5 - 5,Film,Transparent,11
+EM22-25,2.5 - 5,Line,Green,2
+EM22-25,2.5 - 5,Line,Yellow,1
+EM22-25,1 - 2.5,Fragment,Black/grey,21
+EM22-25,1 - 2.5,Fragment,Blue,7
+EM22-25,1 - 2.5,Fragment,Green,8
+EM22-25,1 - 2.5,Fragment,Brown,1
+EM22-25,1 - 2.5,Fragment,White,32
+EM22-25,1 - 2.5,Fragment,Yellow,1
+EM22-25,1 - 2.5,Fragment,Orange,1
+EM22-25,1 - 2.5,Fragment,Transparent,71
+EM22-25,1 - 2.5,Film,Black/grey,1
+EM22-25,1 - 2.5,Film,White,3
+EM22-25,1 - 2.5,Film,Transparent,20
+EM22-25,1 - 2.5,Line,Blue,1
+EM22-25,1 - 2.5,Line,Green,1
+EM22-25,1 - 2.5,Line,Orange,1
+EM22-25,1 - 2.5,Line,Transparent,4
+EM22-26,> 5,Fragment,White,1
+EM22-26,> 5,Film,White,3
+EM22-26,> 5,Film,Transparent,1
+EM22-26,2.5 - 5,Fragment,Black,1
+EM22-26,2.5 - 5,Fragment,Blue,1
+EM22-26,2.5 - 5,Fragment,White,5
+EM22-26,2.5 - 5,Fragment,Transparent,2
+EM22-26,2.5 - 5,Film,White,1
+EM22-26,2.5 - 5,Film,Transparent,1
+EM22-26,2.5 - 5,Pellet,White,1
+EM22-26,1 - 2.5,Fragment,Black,1
+EM22-26,1 - 2.5,Fragment,Blue,1
+EM22-26,1 - 2.5,Fragment,White,6
+EM22-26,1 - 2.5,Fragment,Yellow,1
+EM22-26,1 - 2.5,Fragment,Orange,1
+EM22-26,1 - 2.5,Fragment,Transparent,9
+EM22-26,1 - 2.5,Film,Transparent,1
+EM22-27,>5,Fragment,Orange,1
+EM22-27,>5,Fragment,Transparent,1
+EM22-27,>5,Line,blue,1
+EM22-27,>5,Line,white,1
+EM22-27,2.5 - 5,Fragment,green,1
+EM22-27,2.5 - 5,Fragment,white,3
+EM22-27,2.5 - 5,Fragment,Transparent,2
+EM22-27,2.5 - 5,Line,blue,1
+EM22-27,2.5 - 5,Line,white,2
+EM22-27,1 - 2.5,Fragment,black,16
+EM22-27,1 - 2.5,Fragment,blue,9
+EM22-27,1 - 2.5,Fragment,green,1
+EM22-27,1 - 2.5,Fragment,brown,1
+EM22-27,1 - 2.5,Fragment,white,20
+EM22-27,1 - 2.5,Fragment,Yellow,1
+EM22-27,1 - 2.5,Fragment,Orange,1
+EM22-27,1 - 2.5,Fragment,Transparent,15
+EM22-27,1 - 2.5,film,blue,1
+EM22-27,1 - 2.5,film,Transparent,8
+EM22-27,1 - 2.5,Line,blue,5
+EM22-27,1 - 2.5,Line,green,1
+EM22-27,1 - 2.5,Line,white,1
+EM22-28,>5,Fragment,black,1
+EM22-28,>5,film,black,2
+EM22-28,>5,film,Transparent,2
+EM22-28,>5,Line,Transparent,3
+EM22-28,2.5 - 5,Fragment,black,4
+EM22-28,2.5 - 5,Fragment,green,1
+EM22-28,2.5 - 5,film,black,1
+EM22-28,2.5 - 5,film,Transparent,5
+EM22-28,2.5 - 5,line,white,2
+EM22-28,2.5 - 5,Line,Transparent,8
+EM22-28,1 - 2.5,Fragment,black,12
+EM22-28,1 - 2.5,Fragment,Green,1
+EM22-28,1 - 2.5,Fragment,brown,1
+EM22-28,1 - 2.5,Fragment,white,7
+EM22-28,1 - 2.5,Fragment,Transparent,4
+EM22-28,1 - 2.5,Film,black,1
+EM22-28,1 - 2.5,Film,white,4
+EM22-28,1 - 2.5,Film,Transparent,5
+EM22-28,1 - 2.5,Line,black,3
+EM22-28,1 - 2.5,Line,green,4
+EM22-28,1 - 2.5,Line,brown,1
+EM22-28,1 - 2.5,Line,white,4
+EM22-28,1 - 2.5,Line,Transparent,6
+EM22 -29,> 5,Fragment,white,7
+EM22 -29,> 5,Fragment,Transparent,1
+EM22 -29,> 5,Line,black,2
+EM22 -29,> 5,Line,White,2
+EM22 -29,> 5,Line,Transparent,3
+EM22 -29,2.5 - 5,Fragment,white,2
+EM22 -29,2.5 - 5,Fragment,orange,1
+EM22 -29,2.5 - 5,film,black,1
+EM22 -29,2.5 - 5,film,blue,1
+EM22 -29,2.5 - 5,film,white,1
+EM22 -29,2.5 - 5,film,Transparent,4
+EM22 -29,2.5 - 5,line,black,1
+EM22 -29,2.5 - 5,line,green,2
+EM22 -29,2.5 - 5,line,orange,3
+EM22 -29,2.5 - 5,line,Transparent,1
+EM22 -29,2.5 - 5,ESP,white,7
+EM22 -29,1 - 2.5,Fragment,black,1
+EM22 -29,1 - 2.5,Fragment,blue,3
+EM22 -29,1 - 2.5,Fragment,white,10
+EM22 -29,1 - 2.5,Fragment,orange,2
+EM22 -29,1 - 2.5,Fragment,Transparent,3
+EM22 -29,1 - 2.5,Film,black,1
+EM22 -29,1 - 2.5,Film,white,3
+EM22 -29,1 - 2.5,Film,Transparent,16
+EM22 -29,1 - 2.5,line,green,3
+EM22 -29,1 - 2.5,line,white,1
+EM22 -29,1 - 2.5,line,Yellow,1
+EM22 -29,1 - 2.5,ESP,white,9
+EM22 -30,> 5,Fragment,white,1
+EM22 -30,> 5,Line,blue,1
+EM22 -30,2.5 - 5,Fragment,white,1
+EM22 -30,2.5 - 5,Film,black,1
+EM22 -30,2.5 - 5,Film,Transparent,1
+EM22 -30,2.5 - 5,Line,black,1
+EM22 -30,1 - 2.5,Fragment,black,5
+EM22 -30,1 - 2.5,Fragment,blue,2
+EM22 -30,1 - 2.5,Fragment,white,2
+EM22 -30,1 - 2.5,Fragment,yellow,1
+EM22 -30,1 - 2.5,Fragment,Orange,3
+EM22 -30,1 - 2.5,Fragment,Transparent,3
+EM22 -30,1 - 2.5,film,white,1
+EM22 -30,1 - 2.5,film,Transparent,5
+EM22 -30,1 - 2.5,line,black,1
+EM22 -30,1 - 2.5,line,white,2
+EM22 -30,1 - 2.5,line,Transparent,2
+EM22 -31,> 5,Fragment,white,3
+EM22 -31,> 5,Fragment,Yellow,1
+EM22 -31,> 5,film,Transparent,1
+EM22 -31,> 5,line,green,2
+EM22 -31,2.5 - 5,Fragment,white,1
+EM22 -31,2.5 - 5,Fragment,Transparent,2
+EM22 -31,1 - 2.5,Fragment,black,1
+EM22 -31,1 - 2.5,Fragment,green,1
+EM22 -31,1 - 2.5,Fragment,white,4
+EM22 -31,1 - 2.5,Fragment,Transparent,2
+EM22-32,> 5,Fragment,black,1
+EM22-32,> 5,Fragment,blue,1
+EM22-32,> 5,Fragment,green,3
+EM22-32,> 5,Fragment,white,2
+EM22-32,> 5,Fragment,Transparent,2
+EM22-32,> 5,Film,green,1
+EM22-32,> 5,Film,white,1
+EM22-32,> 5,Film,Transparent,8
+EM22-32,> 5,Film,multicolor,1
+EM22-32,> 5,Line,black,6
+EM22-32,> 5,Line,blue,6
+EM22-32,> 5,Line,white,11
+EM22-32,> 5,Line,Yellow,4
+EM22-32,> 5,Line,Orange,2
+EM22-32,> 5,Line,Transparent,4
+EM22-32,2.5 - 5,Fragment,Black,5
+EM22-32,2.5 - 5,Fragment,Green,1
+EM22-32,2.5 - 5,Fragment,White,3
+EM22-32,2.5 - 5,Fragment,Transparent,1
+EM22-32,2.5 - 5,Film,Transparent,2
+EM22-32,2.5 - 5,Film,multicolor,1
+EM22-32,2.5 - 5,Line,Black,3
+EM22-32,2.5 - 5,Line,green,2
+EM22-32,2.5 - 5,Line,brown,2
+EM22-32,2.5 - 5,Line,yellow,1
+EM22-32,2.5 - 5,Line,Transparent,4
+EM22-32,2.5 - 5,ESP,White,1
+EM22-32,1 - 2.5,Fragment,black,9
+EM22-32,1 - 2.5,Fragment,blue,6
+EM22-32,1 - 2.5,Fragment,brown,3
+EM22-32,1 - 2.5,Fragment,white,24
+EM22-32,1 - 2.5,Fragment,Yellow,2
+EM22-32,1 - 2.5,Fragment,orange,3
+EM22-32,1 - 2.5,Fragment,Transparent,8
+EM22-32,1 - 2.5,Film,orange,2
+EM22-32,1 - 2.5,Film,Transparent,1
+EM22-32,1 - 2.5,Line,Black,1
+EM22-32,1 - 2.5,Line,Yellow,2
+EM22-32,1 - 2.5,Line,Transparent,3
+EM22-33,> 5,Fragment,Transparent,1
+EM22-33,> 5,Film,Transparent,1
+EM22-33,> 5,Line,Blue,1
+EM22-33,2.5 - 5 ,Fragment,brown,1
+EM22-33,2.5 - 5 ,Fragment,white,2
+EM22-34,> 5,Fragment,white,1
+EM22-34,> 5,line,white,1
+EM22-34,> 5,line,Transparent,2
+EM22-34,2.5 - 5 ,Fragment,orange,1
+EM22-34,2.5 - 5 ,Fragment,Transparent,2
+EM22-34,2.5 - 5 ,film,Transparent,1
+EM22-34,1 - 2.5,Fragment,blue,1
+EM22-34,1 - 2.5,Fragment,Transparent,1
+EM22-34,1 - 2.5,line,green,1
+EM22-35,> 5 ,Fragment,brown,1
+EM22-35,> 5 ,Film ,green,1
+EM22-35,> 5 ,Line,green,1
+EM22-35,2.5 - 5 ,Fragment,Black,1
+EM22-35,2.5 - 5 ,Fragment,white,3
+EM22-35,2.5 - 5 ,Fragment,Transparent,3
+EM22-35,2.5 - 5 ,Fragment,multicolor,1
+EM22-35,2.5 - 5 ,Film,Transparent,4
+EM22-35,2.5 - 5 ,Line,White ,1
+EM22-35,1 - 2.5 ,Fragment,Black,10
+EM22-35,1 - 2.5 ,Fragment,Blue,1
+EM22-35,1 - 2.5 ,Fragment,green,2
+EM22-35,1 - 2.5 ,Fragment,white,12
+EM22-35,1 - 2.5 ,Fragment,orange,2
+EM22-35,1 - 2.5 ,Fragment,Transparent,20
+EM22-35,1 - 2.5 ,Fragment,multicolor,1
+EM22-35,1 - 2.5 ,Film,green,1
+EM22-35,1 - 2.5 ,Line,White ,2
+EM22-35,1 - 2.5 ,Line,Yellow,1
+EM22-36,> 5,line,green,1
+EM22-36,> 5,line,Transparent,2
+EM22-36,2.5 - 5,Fragment,Transparent,1
+EM22-36,2.5 - 5,Line,green,1
+EM22-36,2.5 - 5,ESP,white,2
+EM22-36,1 - 2.5,Fragment,black,1
+EM22-36,1 - 2.5,Fragment,white,3
+EM22-36,1 - 2.5,Fragment,orange,3
+EM22-36,1 - 2.5,Fragment,Transparent,6
+EM22-36,1 - 2.5,film,Transparent,1
+EM22-36,1 - 2.5,line,green,2
+EM22-36,1 - 2.5,line,Transparent,2
+EM22-36,1 - 2.5,ESP,white,4
+EM22-37,> 5,film,Transparent,4
+EM22-37,> 5,line ,black,2
+EM22-37,> 5,,Transparent,3
+EM22-37,"2,5 - 5 ",Fragment,blue,1
+EM22-37,"2,5 - 5 ",film,blue,1
+EM22-37,"2,5 - 5 ",film,white,1
+EM22-37,"2,5 - 5 ",film,Transparent,5
+EM22-37,"2,5 - 5 ",line ,blue,1
+EM22-37,"1 - 2,5",Fragment,white,6
+EM22-37,"1 - 2,5",Fragment,Transparent,16
+EM22-37,"1 - 2,5",Fragment,multicolor,1
+EM22-37,"1 - 2,5",film,white,1
+EM22-37,"1 - 2,5",film,Transparent,4
+EM22-37,"1 - 2,5",line ,white,1
+EM22-37,"1 - 2,5",ESP ,white,3
+EM22-39,> 5,Fragment,Blue,1
+EM22-39,> 5,Fragment,white,1
+EM22-39,> 5,Fragment,Transparent,1
+EM22-39,> 5,Film,Black,2
+EM22-39,> 5,Film,White,1
+EM22-39,> 5,Film,Transparent,3
+EM22-39,> 5,Line,Black,1
+EM22-39,> 5,Line,Blue,1
+EM22-39,> 5,Line ,Orange,2
+EM22-39,> 5,Line,Transparent,3
+EM22-39,"2,5 - 5",Fragment,Black,4
+EM22-39,"2,5 - 5",Fragment,white,6
+EM22-39,"2,5 - 5",Fragment,Transparent,7
+EM22-39,"2,5 - 5",Film,Black,2
+EM22-39,"2,5 - 5",Film,Blue,1
+EM22-39,"2,5 - 5",Film,White,2
+EM22-39,"2,5 - 5",Film,Transparent,15
+EM22-39,"2,5 - 5",Line,Blue,2
+EM22-39,"2,5 - 5",Line,Transparent,5
+EM22-39,"1 - 2,5",Fragment,Black,21
+EM22-39,"1 - 2,5",Fragment,Blue,9
+EM22-39,"1 - 2,5",Fragment,green,3
+EM22-39,"1 - 2,5",Fragment,white,52
+EM22-39,"1 - 2,5",Fragment,yellow,3
+EM22-39,"1 - 2,5",Fragment,orange,1
+EM22-39,"1 - 2,5",Fragment,Transparent,74
+EM22-39,"1 - 2,5",Film,white,7
+EM22-39,"1 - 2,5",Film,Transparent,10
+EM22-39,"1 - 2,5",Line,Black,1
+EM22-39,"1 - 2,5",Line,green,1
+EM22-39,"1 - 2,5",Line,brown,1
+EM22-39,"1 - 2,5",Line,orange,2
+EM22-39,"1 - 2,5",Line ,Transparent,3
+EM22-39,"1 - 2,5",ESP,white,1
+EM22-40,> 5,Fragment,Black,1
+EM22-40,> 5,Fragment,White,3
+EM22-40,> 5,Fragment,Transparent,2
+EM22-40,> 5,Film,Black,1
+EM22-40,> 5,Film,White,3
+EM22-40,> 5,Film,Transparent,8
+EM22-40,> 5,Line,Black,1
+EM22-40,> 5,Line,Blue,1
+EM22-40,> 5,Line,White,1
+EM22-40,> 5,Line,Transparent,1
+EM22-40,> 5,ESP,White,1
+EM22-40,2.5 - 5,Fragment,Black,5
+EM22-40,2.5 - 5,Fragment,White,7
+EM22-40,2.5 - 5,Fragment,Transparent,11
+EM22-40,2.5 - 5,Film,Black,2
+EM22-40,2.5 - 5,Film,White,1
+EM22-40,2.5 - 5,Film,Transparent,10
+EM22-40,2.5 - 5,Line,Black,1
+EM22-40,2.5 - 5,Line,Blue,2
+EM22-40,2.5 - 5,Line,White,2
+EM22-40,2.5 - 5,Pellet,White,1
+EM22-40,1 - 2.5,Fragment,Black,17
+EM22-40,1 - 2.5,Fragment,Blue,8
+EM22-40,1 - 2.5,Fragment,Green,1
+EM22-40,1 - 2.5,Fragment,Brown,2
+EM22-40,1 - 2.5,Fragment,White,50
+EM22-40,1 - 2.5,Fragment,Yellow,1
+EM22-40,1 - 2.5,Fragment,Orange,3
+EM22-40,1 - 2.5,Fragment,Transparent,93
+EM22-40,1 - 2.5,Film,Black,1
+EM22-40,1 - 2.5,Film,Blue,2
+EM22-40,1 - 2.5,Film,White,2
+EM22-40,1 - 2.5,Film,orange,1
+EM22-40,1 - 2.5,Film,Transparent,23
+EM22-40,1 - 2.5,Line,Blue,2
+EM22-40,1 - 2.5,Line,green,2
+EM22-40,1 - 2.5,Line,White,4
+EM22-40,1 - 2.5,Line,Transparent,2
+EM22-40,1 - 2.5,ESP,White,1
+EM22-42,> 5,Fragment,Black,1
+EM22-42,> 5,Fragment,White,1
+EM22-42,> 5,Fragment,Transparent,1
+EM22-42,"2,5 - 5 ",Fragment,Black,1
+EM22-42,"2,5 - 5 ",Fragment,White,1
+EM22-42,"2,5 - 5 ",Fragment,Transparent,2
+EM22-42,"2,5 - 5 ",Line,Blue,1
+EM22-42,"1 - 2,5",Fragment,Black,4
+EM22-42,"1 - 2,5",Fragment,Blue,1
+EM22-42,"1 - 2,5",Fragment,White,5
+EM22-42,"1 - 2,5",Fragment,Transparent,7
+EM22-43,>5,Fragment,white,4
+EM22-43,>5,Fragment,Transparent,2
+EM22-43,>5,film,black,2
+EM22-43,>5,film,green,1
+EM22-43,>5,film,Transparent,2
+EM22-43,>5,line,blue,1
+EM22-43,>5,line,Transparent,1
+EM22-43,"2,5 - 5",Fragment,black,4
+EM22-43,"2,5 - 5",Fragment,white,2
+EM22-43,"2,5 - 5",Fragment,Transparent,6
+EM22-43,"2,5 - 5",film,white,1
+EM22-43,"2,5 - 5",film,Transparent,3
+EM22-43,"2,5 - 5",line,white,1
+EM22-43,"1-2,5",Fragment,black,6
+EM22-43,"1-2,5",Fragment,blue,2
+EM22-43,"1-2,5",Fragment,green,2
+EM22-43,"1-2,5",Fragment,brown,1
+EM22-43,"1-2,5",Fragment,White,15
+EM22-43,"1-2,5",Fragment,Orange,2
+EM22-43,"1-2,5",Fragment,Transparent,17
+EM22-43,"1-2,5",Fragment,Multicolor,2
+EM22-43,"1-2,5",film,White,1
+EM22-43,"1-2,5",film,Transparent,3
+EM22-43,"1-2,5",line,Transparent,2
+EM22-45,>5,Fragment,Black,1
+EM22-45,>5,Fragment,White,3
+EM22-45,>5,Fragment,Transparent,1
+EM22-45,>5,Film,Black,1
+EM22-45,>5,Film,Blue,1
+EM22-45,>5,Film,White,1
+EM22-45,>5,Film,Transparent,7
+EM22-45,>5,Line,Transparent,2
+EM22-45,"2,5 - 5",Fragment,Black,7
+EM22-45,"2,5 - 5",Fragment,Blue,1
+EM22-45,"2,5 - 5",Fragment,White,17
+EM22-45,"2,5 - 5",Fragment,Transparent,28
+EM22-45,"2,5 - 5",Fragment,multicolor,1
+EM22-45,"2,5 - 5",Film,Green,1
+EM22-45,"2,5 - 5",Film,White,1
+EM22-45,"2,5 - 5",Film,Transparent,10
+EM22-45,"2,5 - 5",Line,Transparent,1
+EM22-45,"2,5 - 5",ESP,White,1
+EM22-45,"2,5 - 5",Pellet,White,1
+EM22-45,"1-2,5",Fragment,Black,25
+EM22-45,"1-2,5",Fragment,Blue,5
+EM22-45,"1-2,5",Fragment,Green,5
+EM22-45,"1-2,5",Fragment,White,80
+EM22-45,"1-2,5",Fragment,Yellow,2
+EM22-45,"1-2,5",Fragment,Orange,6
+EM22-45,"1-2,5",Fragment,Transparent,64
+EM22-45,"1-2,5",Fragment,multicolor,4
+EM22-45,"1-2,5",Film,Black,1
+EM22-45,"1-2,5",Film,Green,1
+EM22-45,"1-2,5",Film,White,1
+EM22-45,"1-2,5",Film,Transparent,9
+EM22-45,"1-2,5",Line,Transparent,1
+EM22-45,"1-2,5",ESP,White,3
+EM22-45,"1-2,5",Pellet,Yellow,1
+EM22-46,>5,Fragment,Blue,1
+EM22-46,>5,Fragment,White,1
+EM22-46,>5,Fragment,Yellow,1
+EM22-46,>5,Fragment,Transparent,4
+EM22-46,>5,Film,White,1
+EM22-46,>5,Film,Transparent,8
+EM22-46,>5,Line,Green,1
+EM22-46,>5,Line,Transparent,1
+EM22-46,"2,5 - 5",Fragment,Black,5
+EM22-46,"2,5 - 5",Fragment,White,4
+EM22-46,"2,5 - 5",Fragment,Yellow,1
+EM22-46,"2,5 - 5",Fragment,Transparent,28
+EM22-46,"2,5 - 5",Film,White,1
+EM22-46,"2,5 - 5",Film,Transparent,7
+EM22-46,"2,5 - 5",Line,Black,2
+EM22-46,"2,5 - 5",Line,Yellow,1
+EM22-46,"2,5 - 5",Line,Transparent,5
+EM22-46,"2,5 - 5",ESP,White,1
+EM22-46,"1 - 2,5",Fragment,Black,30
+EM22-46,"1 - 2,5",Fragment,Blue,15
+EM22-46,"1 - 2,5",Fragment,Green,12
+EM22-46,"1 - 2,5",Fragment,Brown,1
+EM22-46,"1 - 2,5",Fragment,White,73
+EM22-46,"1 - 2,5",Fragment,Yellow,2
+EM22-46,"1 - 2,5",Fragment,Orange,2
+EM22-46,"1 - 2,5",Fragment,Transparent,169
+EM22-46,"1 - 2,5",Film,Black,2
+EM22-46,"1 - 2,5",Film,Transparent,13
+EM22-46,"1 - 2,5",Line,Black,2
+EM22-46,"1 - 2,5",Line,Blue,1
+EM22-46,"1 - 2,5",Line,White,5
+EM22-46,"1 - 2,5",Line,Orange,3
+EM22-46,"1 - 2,5",Line,Transparent,1
+EM22-46,"1 - 2,5",ESP,White,1
+EM22-47,>5,Fragment,Black,15
+EM22-47,>5,Fragment,Blue,6
+EM22-47,>5,Fragment,green,4
+EM22-47,>5,Fragment,White,34
+EM22-47,>5,Fragment,Yellow,1
+EM22-47,>5,Fragment,Orange,1
+EM22-47,>5,Fragment,Transparent,63
+EM22-47,>5,Film,Black,1
+EM22-47,>5,Film,Blue,3
+EM22-47,>5,Film,green,1
+EM22-47,>5,Film,White,12
+EM22-47,>5,Film,Yellow,1
+EM22-47,>5,Film,Transparent,57
+EM22-47,>5,Film,Multicolor,2
+EM22-47,>5,Line,Black,5
+EM22-47,>5,Line,Blue,12
+EM22-47,>5,Line,green,9
+EM22-47,>5,Line,white,5
+EM22-47,>5,Line,Yellow,1
+EM22-47,>5,Line,Orange,12
+EM22-47,>5,Line,Transparent,23
+EM22-47,"2,5 - 5",Fragment,Black,29
+EM22-47,"2,5 - 5",Fragment,Blue,9
+EM22-47,"2,5 - 5",Fragment,green,5
+EM22-47,"2,5 - 5",Fragment,White,58
+EM22-47,"2,5 - 5",Fragment,Yellow,2
+EM22-47,"2,5 - 5",Fragment,Orange,4
+EM22-47,"2,5 - 5",Fragment,Transparent,85
+EM22-47,"2,5 - 5",Fragment,Multicolor,1
+EM22-47,"2,5 - 5",Film,Black,1
+EM22-47,"2,5 - 5",Film,Blue,4
+EM22-47,"2,5 - 5",Film,White,15
+EM22-47,"2,5 - 5",Film,Transparent,70
+EM22-47,"2,5 - 5",Line,Black,1
+EM22-47,"2,5 - 5",Line,Blue,4
+EM22-47,"2,5 - 5",Line,Green,2
+EM22-47,"2,5 - 5",Line,White,6
+EM22-47,"2,5 - 5",Line,Orange,2
+EM22-47,"2,5 - 5",Line,Transparent,14
+EM22-47,"2,5 - 5",PU,White,1
+EM22-47,"2,5 - 5",Pellet,Transparent,1
+EM22-47,"1 - 2,5 ",Fragment,Black,107
+EM22-47,"1 - 2,5 ",Fragment,Blue,39
+EM22-47,"1 - 2,5 ",Fragment,Green,14
+EM22-47,"1 - 2,5 ",Fragment,Brown,2
+EM22-47,"1 - 2,5 ",Fragment,White,295
+EM22-47,"1 - 2,5 ",Fragment,Yellow,10
+EM22-47,"1 - 2,5 ",Fragment,Orange,9
+EM22-47,"1 - 2,5 ",Fragment,Transparent,704
+EM22-47,"1 - 2,5 ",Fragment,multicolor,5
+EM22-47,"1 - 2,5 ",Film,Black,1
+EM22-47,"1 - 2,5 ",Film,Blue,2
+EM22-47,"1 - 2,5 ",Film,White,4
+EM22-47,"1 - 2,5 ",Film,Transparent,39
+EM22-47,"1 - 2,5 ",Line,Blue,1
+EM22-47,"1 - 2,5 ",Line,Green,3
+EM22-47,"1 - 2,5 ",Line,White,7
+EM22-47,"1 - 2,5 ",Line,Transparent,10
+EM22-47,"1 - 2,5 ",ESP,White,1
+EM22-48,> 5,Fragment,Black,2
+EM22-48,> 5,Fragment,Blue,1
+EM22-48,> 5,Fragment,White,19
+EM22-48,> 5,Fragment,Yellow,1
+EM22-48,> 5,Fragment,Transparent,4
+EM22-48,> 5,Film,Black,1
+EM22-48,> 5,Film,White,3
+EM22-48,> 5,Film,Transparent,27
+EM22-48,> 5,Line,Green,1
+EM22-48,> 5,Line,White,1
+EM22-48,> 5,Line,Transparent,1
+EM22-48,> 5,Line,Multicolor,1
+EM22-48,> 5,Pellet,White,1
+EM22-48,2.5 - 5,Fragment,Black,7
+EM22-48,2.5 - 5,Fragment,White,3
+EM22-48,2.5 - 5,Fragment,Yellow,1
+EM22-48,2.5 - 5,Fragment,Transparent,10
+EM22-48,2.5 - 5,Film,Transparent,24
+EM22-48,2.5 - 5,Line,Green,1
+EM22-48,2.5 - 5,Line,Transparent,1
+EM22-48,1 - 2.5,Fragment,Black,14
+EM22-48,1 - 2.5,Fragment,Blue,7
+EM22-48,1 - 2.5,Fragment,Green,2
+EM22-48,1 - 2.5,Fragment,White,18
+EM22-48,1 - 2.5,Fragment,Yellow,1
+EM22-48,1 - 2.5,Fragment,Orange,2
+EM22-48,1 - 2.5,Fragment,Transparent,64
+EM22-48,1 - 2.5,Film,Transparent,13
+EM22-48,1 - 2.5,Line,Green,2
+EM22-48,1 - 2.5,ESP,White,1
+EM22-49,> 5,Fragment,Black,1
+EM22-49,> 5,Fragment,Transparent,4
+EM22-49,> 5,Film,White,1
+EM22-49,> 5,Film,Transparent,10
+EM22-49,> 5,Line,Black,1
+EM22-49,> 5,Line,Blue,1
+EM22-49,> 5,Line,White,1
+EM22-49,> 5,Line,Orange,1
+EM22-49,> 5,Line,Transparent,1
+EM22-49,2.5 - 5 ,Fragment,Blue,1
+EM22-49,2.5 - 5 ,Fragment,White,3
+EM22-49,2.5 - 5 ,Fragment,Transparent,8
+EM22-49,2.5 - 5 ,Film,Black,2
+EM22-49,2.5 - 5 ,Film,Transparent,5
+EM22-49,2.5 - 5 ,Line,Blue,2
+EM22-49,2.5 - 5 ,Line,green,1
+EM22-49,2.5 - 5 ,ESP,White,2
+EM22-49,1 - 2.5,Fragment,Black,10
+EM22-49,1 - 2.5,Fragment,Blue,6
+EM22-49,1 - 2.5,Fragment,green,2
+EM22-49,1 - 2.5,Fragment,White,37
+EM22-49,1 - 2.5,Fragment,Yellow,7
+EM22-49,1 - 2.5,Fragment,Orange,1
+EM22-49,1 - 2.5,Fragment,Transparent,40
+EM22-49,1 - 2.5,Fragment,Multicolor,1
+EM22-49,1 - 2.5,Film,white,3
+EM22-49,1 - 2.5,Film,Transparent,10
+EM22-49,1 - 2.5,Line,Blue,3
+EM22-49,1 - 2.5,Line,green,1
+EM22-49,1 - 2.5,ESP,white,14
+EM22-50,> 5,Fragment,Blue,1
+EM22-50,> 5,Fragment,White,6
+EM22-50,> 5,Fragment,Orange,1
+EM22-50,> 5,Fragment,Transparent,7
+EM22-50,> 5,Fragment,Multicolor,1
+EM22-50,> 5,Film,Blue,1
+EM22-50,> 5,Film,White,4
+EM22-50,> 5,Film,Transparent,9
+EM22-50,> 5,Line,Black,2
+EM22-50,> 5,Line,Blue,1
+EM22-50,> 5,Line,Green,2
+EM22-50,> 5,Line,White,1
+EM22-50,> 5,Line,Transparent,3
+EM22-50,2.5 - 5,Fragment,Black,6
+EM22-50,2.5 - 5,Fragment,Blue,1
+EM22-50,2.5 - 5,Fragment,Green,2
+EM22-50,2.5 - 5,Fragment,White,21
+EM22-50,2.5 - 5,Fragment,Yellow,1
+EM22-50,2.5 - 5,Fragment,Transparent,17
+EM22-50,2.5 - 5,Fragment,multicolor,1
+EM22-50,2.5 - 5,Film,Black,4
+EM22-50,2.5 - 5,Film,Blue,1
+EM22-50,2.5 - 5,Film,White,7
+EM22-50,2.5 - 5,Film,Yellow,1
+EM22-50,2.5 - 5,Film,Transparent,19
+EM22-50,2.5 - 5,Line,White,2
+EM22-50,2.5 - 5,Line,Orange,2
+EM22-50,2.5 - 5,Line,Transparent,7
+EM22-50,2.5 - 5,ESP,White,3
+EM22-50,1 - 2.5,Fragment,Black,25
+EM22-50,1 - 2.5,Fragment,Blue,17
+EM22-50,1 - 2.5,Fragment,Green,5
+EM22-50,1 - 2.5,Fragment,Brown,2
+EM22-50,1 - 2.5,Fragment,White,79
+EM22-50,1 - 2.5,Fragment,Yellow,6
+EM22-50,1 - 2.5,Fragment,Orange,4
+EM22-50,1 - 2.5,Fragment,Transparent,160
+EM22-50,1 - 2.5,Fragment,Multicolor,6
+EM22-50,1 - 2.5,Film,Black,2
+EM22-50,1 - 2.5,Film,Blue,3
+EM22-50,1 - 2.5,Film,Green,1
+EM22-50,1 - 2.5,Film,White,5
+EM22-50,1 - 2.5,Film,Transparent,30
+EM22-50,1 - 2.5,Line,Black,1
+EM22-50,1 - 2.5,Line,Blue,2
+EM22-50,1 - 2.5,Line,Green,7
+EM22-50,1 - 2.5,Line,Brown,1
+EM22-50,1 - 2.5,Line,White,3
+EM22-50,1 - 2.5,Line,Orange,1
+EM22-50,1 - 2.5,Line,Transparent,7
+EM22-50,1 - 2.5,Line,Multicolor,1
+EM22-50,1 - 2.5,ESP,White,4
+EM22-50,1 - 2.5,ESP,Yellow,1
+EM22-51,> 5,Fragment,Black,4
+EM22-51,> 5,Film,Transparent,4
+EM22-51,> 5,Line,White,1
+EM22-51,> 5,Line,Transparent,2
+EM22-51,2.5 - 5 ,Fragment,Black,2
+EM22-51,2.5 - 5 ,Fragment,White,1
+EM22-51,2.5 - 5 ,Fragment,Multicolor,1
+EM22-51,2.5 - 5 ,Film,Transparent,3
+EM22-51,2.5 - 5 ,Line,Transparent,3
+EM22-51,1 - 2.5 ,Fragment,Black,4
+EM22-51,1 - 2.5 ,Fragment,Blue,2
+EM22-51,1 - 2.5 ,Fragment,Green,1
+EM22-51,1 - 2.5 ,Fragment,White,21
+EM22-51,1 - 2.5 ,Fragment,Orange,2
+EM22-51,1 - 2.5 ,Fragment,Transparent,10
+EM22-51,1 - 2.5 ,Fragment,Multicolor,2
+EM22-51,1 - 2.5 ,Film,Black,1
+EM22-51,1 - 2.5 ,Film,Transparent,1
+EM22-51,1 - 2.5 ,Line,White,2
+EM22-51,1 - 2.5 ,ESP,White,2
+EM22-53,> 5,Fragment,White,1
+EM22-53,> 5,,Transparent,1
+EM22-53,> 5,Film,Transparent,1
+EM22-53,> 5,Line,Green,1
+EM22-53,> 5,ESP,White,1
+EM22-53,2.5 - 5,Fragment,Black,1
+EM22-53,2.5 - 5,Fragment,Blue,1
+EM22-53,2.5 - 5,Fragment,White,1
+EM22-53,2.5 - 5,Fragment,Transparent,1
+EM22-53,2.5 - 5,Film,Transparent,2
+EM22-53,2.5 - 5,ESP,White,2
+EM22-53,1 - 2.5,Fragment,Green,2
+EM22-53,1 - 2.5,Fragment,White,5
+EM22-53,1 - 2.5,Fragment,Transparent,7
+EM22-53,1 - 2.5,Film,White,1
+EM22-53,1 - 2.5,Line,Black,1
+EM22-53,1 - 2.5,ESP,White,3
+EM22-55,> 5,Fragment,White,2
+EM22-55,> 5,Fragment,Transparent,1
+EM22-55,> 5,Film,Transparent,1
+EM22-55,2.5 - 5,Fragment,White,1
+EM22-55,1 - 2.5,Fragment,Blue,2
+EM22-55,1 - 2.5,Fragment,White,7
+EM22-55,1 - 2.5,Fragment,Transparent,1
+EM22-55,1 - 2.5,Film,Black,1
+EM22-55,1 - 2.5,Film,Transparent,1
+EM22-55,1 - 2.5,ESP,White,2
+EM22-56,> 5,Fragment,Black,1
+EM22-56,> 5,Film,Transparent,1
+EM22-56,> 5,Line,Green,1
+EM22-56,> 5,Line,Orange,1
+EM22-56,2.5 - 5,Fragment,Black,1
+EM22-56,2.5 - 5,Film,Transparent,1
+EM22-56,1 - 2.5,Fragment,Black,1
+EM22-56,1 - 2.5,Fragment,White,1
+EM22-56,1 - 2.5,Fragment,Transparent,3
+EM22-56,1 - 2.5,Film,Transparent,1
+EM22-56,1 - 2.5,Line,Transparent,1
+EM22-56,1 - 2.5,ESP,White,3
+EM22-56,1 - 2.5,ESP,Orange,1
+EM22-57,< 5,Fragment,Black,1
+EM22-57,< 5,Fragment,Blue,1
+EM22-57,< 5,Fragment,Green,1
+EM22-57,< 5,Fragment,White,3
+EM22-57,< 5,Fragment,Orange,1
+EM22-57,< 5,Fragment,Transparent,2
+EM22-57,< 5,Film,Green,1
+EM22-57,< 5,Film,Brown,1
+EM22-57,< 5,Film,White,1
+EM22-57,< 5,Film,Orange,1
+EM22-57,< 5,Film,Transparent,6
+EM22-57,< 5,Line,Green,1
+EM22-57,< 5,Line,White,6
+EM22-57,< 5,Line,Transparent,5
+EM22-57,< 5,ESP,White,5
+EM22-57,< 5,ESP,Yellow,1
+EM22-57,< 5,ESP,Multicolor,1
+EM22-57,"2,5 - 5",Fragment,Green,1
+EM22-57,"2,5 - 5",Fragment,White,5
+EM22-57,"2,5 - 5",Fragment,Transparent,5
+EM22-57,"2,5 - 5",Film,White,3
+EM22-57,"2,5 - 5",Film,Orange,2
+EM22-57,"2,5 - 5",Film,Transparent,7
+EM22-57,"2,5 - 5",Line,White,1
+EM22-57,"2,5 - 5",ESP,Black,1
+EM22-57,"2,5 - 5",ESP,Brown,1
+EM22-57,"2,5 - 5",ESP,White,6
+EM22-57,"2,5 - 5",ESP,Yellow,2
+EM22-57,"2,5 - 5",Pellet,White,1
+EM22-57,"2,5 - 5",Pellet,Transparent,4
+EM22-57,"1 - 2,5",Fragment,Black,4
+EM22-57,"1 - 2,5",Fragment,Blue,2
+EM22-57,"1 - 2,5",Fragment,Green,3
+EM22-57,"1 - 2,5",Fragment,Brown,2
+EM22-57,"1 - 2,5",Fragment,White,20
+EM22-57,"1 - 2,5",Fragment,Yellow,1
+EM22-57,"1 - 2,5",Fragment,Orange,4
+EM22-57,"1 - 2,5",Fragment,Transparent,37
+EM22-57,"1 - 2,5",Film ,Black,1
+EM22-57,"1 - 2,5",Film ,White,1
+EM22-57,"1 - 2,5",Film ,Orange,1
+EM22-57,"1 - 2,5",Film ,Transparent,12
+EM22-57,"1 - 2,5",Line,White,3
+EM22-57,"1 - 2,5",Line,Orange,1
+EM22-57,"1 - 2,5",Line,Transparent,1
+EM22-57,"1 - 2,5",ESP,Black,1
+EM22-57,"1 - 2,5",ESP,White,16
+EM22-57,"1 - 2,5",ESP,Yellow,3
