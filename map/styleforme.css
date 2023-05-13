@@ -11,6 +11,8 @@ body {
     align-items: center;
     margin-top: 150px;
     height: 100vh;
+    background-image: url('./assets/images/pexels-thach-tran-756856.jpg');
+    object-fit: cover;
 }
 
 /* conteneur du formulaire  */
