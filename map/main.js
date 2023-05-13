@@ -45,3 +45,20 @@ let circle = L.circle([coords.latitude, coords.longitude], {
   fillOpacity: 0.5,
   radius: 30000,
 }).addTo(map);
+
+let dates = document.querySelector(".dates");
+let navBtn = document.querySelector(".nav-link");
+
+let isDatesHidden = true; // La valeur par défaut est "caché"
+
+navBtn.addEventListener("click", (event) => {
+  event.preventDefault();
+
+  if (isDatesHidden) {
+    dates.classList.remove("hidden");
+    isDatesHidden = false;
+  } else {
+    dates.classList.add("hidden");
+    isDatesHidden = true;
+  }
+});

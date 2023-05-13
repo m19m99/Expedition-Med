@@ -6,6 +6,8 @@
 
 #map { 
     height: 100vh; 
+    position: fixed;
+    width: 100vw;
 }
 
 nav{
@@ -33,4 +35,18 @@ nav{
 
 .nav-link:hover{
     color: #2a5d93;
+}
+
+.dates{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    height: 50px;
+}
+
+.hidden{
+    display: none;
 }
