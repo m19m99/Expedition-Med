@@ -1,8 +1,47 @@
-*{
-    margin: 0;
+body {
     padding: 0;
+    margin: 0;
+}
+html, body, #map {
+    height: 100%;
+    width: 100vw;
 }
 
-#map { 
-    height: 100vh; 
+nav{
+    width: 100%;
+    background-color: white;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
 }
+
+.nav-links{
+    font-weight: 800;
+    margin-right: 10%;
+}
+
+.logo{
+    margin-left: 5%;
+}
+
+.nav-link{
+    color: #1B3C60;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: #2a5d93;
+}
+
+  .my-popup {
+    background-color: white;
+    border: 2px solid rgb(192, 111, 111);
+    border-radius: 10px;
+    padding: 5px;
+  }
+  .my-popup h3 {
+    font-size: 18px;
+    margin-top: 0;
+  }
